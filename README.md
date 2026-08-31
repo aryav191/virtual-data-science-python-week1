@@ -70,6 +70,30 @@ The generated plots are stored in:
 
 `outputs/plots/`
 
+## Detailed Documentation
+
+The complete Week 1 report is available in:
+
+docs/Virtual_Data_Science_Week1_Complete_Report.docx
+
+The report contains:
+
+- Data acquisition methodology
+- Initial data exploration
+- Missing-value analysis
+- Missing-value treatment
+- Duplicate detection
+- Categorical data standardization
+- Outlier detection using IQR
+- Outlier treatment using capping
+- Data-type validation
+- Final dataset validation
+- Python code snippets
+- Preprocessing screenshots
+- Visualization analysis
+- Impact of preprocessing on subsequent analysis
+- Challenges and solutions
+
 ## Conclusion
 
 The project demonstrates a complete data preprocessing workflow using Python. The raw dataset was examined, data-quality issues were identified and addressed, numerical outliers were analyzed, and the resulting dataset was exported in a cleaned format suitable for subsequent data analysis or machine-learning tasks.
